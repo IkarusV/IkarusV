@@ -6,8 +6,8 @@
 
 I build practical data platforms, AI applications, and automation systems, from ingestion and modelling to APIs, cloud deployment, and user-facing tools.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Project_Database-181717?style=for-the-badge&logo=github)](https://github.com/IkarusV?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:166436726+IkarusV@users.noreply.github.com)
+[![View Projects](https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkarusV?tab=repositories)
+[![Email](https://img.shields.io/badge/magiismagi%40gmx.fr-Contact-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:magiismagi@gmx.fr)
 
 </div>
 
@@ -160,4 +160,5 @@ Provider-agnostic GenAI application runtime with structured tools, persistent st
 `ikar@github:~$` **Open to building useful data and AI systems.**
 
 </div>
+
 
